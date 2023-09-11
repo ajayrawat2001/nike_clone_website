@@ -64,7 +64,7 @@ const Footer = () => {
               height={20}
               className="rounded-full m-0"
             />
-            <p>Copyright. All rights reserved.</p>
+            <p>Copyright. All rights reserved. Ajay Rawat</p>
           </div>
           <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
         </div>
