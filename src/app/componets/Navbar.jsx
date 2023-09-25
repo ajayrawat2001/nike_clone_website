@@ -12,7 +12,7 @@ const Navbar = () => {
           <Link href={"/"}>
             <Image src={headerLogo} alt="logo" width={138} height={29} />
           </Link>
-          <ul className="flex-1 flex justify-center items-center gap-16 max-lg:hidden">
+          <ul className="flex-1 flex justify-end items-center gap-16 max-lg:hidden">
             {
               navLinks.map((item) => 
              (   <li key={item.label}>

@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <main className="relative">
      
-      <section className="xl:padding-1 wide:padding-r padding-b">
+      <section className="xl:padding-1  padding-b">
         {" "}
         <Hero />
       </section>

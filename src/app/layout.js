@@ -1,6 +1,6 @@
 import { Navbar } from './componets'
 import './globals.css'
-import { Inter } from 'next/font/google'
+
 import { Roboto } from "next/font/google";
 
 const roboto = Roboto({
